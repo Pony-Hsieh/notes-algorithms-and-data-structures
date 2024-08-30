@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    /** Paste Image
+     * 螢幕截圖後貼至 markdown
+     * 可將檔名命名為時間戳 | 將檔案儲存至指定資料夾
+     */
+    "mushan.vscode-paste-image",
+  ]
+}
